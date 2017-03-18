@@ -1,9 +1,5 @@
 # Developer Documentation
 
-## Guide to start using the app
+## Api documentation
 
-## How to add your clients
-
-## How versions works
-
-Read [terms](api.md)
+Before starting the api integration you need to create an application secret from [settings](https://wpci.co/app/settings).
